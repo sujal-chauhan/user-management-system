@@ -3,25 +3,25 @@
 ![Demo Screenshot](assets/home1.png)
 
 
-User Management System
+## User Management System
 
 A full-stack user management application built with React, Node.js, Express, and MySQL.The application allows you to:
 
-Add, edit, and delete users.
+-> Add, edit, and delete users.
 
-Bulk upload users via Excel.
+-> Bulk upload users via Excel.
 
-Download the complete user list as Excel.
+-> Download the complete user list as Excel.
 
-🚀 Technologies Used
+### Technologies Used
 
-Frontend: React (with Axios)
+-> Frontend: React (with Axios)
 
-Backend: Node.js + Express.js
+-> Backend: Node.js + Express.js
 
-Database: MySQL
+-> Database: MySQL
 
-Excel Handling: Multer, XLSX
+-> Excel Handling: Multer, XLSX
 
 🛠 Setup Instructions
 
@@ -32,11 +32,11 @@ cd UserManagementSystem
 
 2️⃣ Database Setup:
 
-Open MySQL Workbench.
+-> Open MySQL Workbench.
 
-Run the SQL script provided in /database/user_management.sql to create the database and table.
+-> Run the SQL script provided in /database/user_management.sql to create the database and table.
 
-Example SQL:
+### Example SQL:
 
 CREATE DATABASE user_management;
 USE user_management;
@@ -54,9 +54,9 @@ CREATE TABLE users (
 
 3️⃣ Excel Template:
 
-Use the sample Excel template provided in /assets/sample-template.xlsx.
+-> Use the sample Excel template provided in /assets/sample-template.xlsx.
 
-Make sure your Excel file columns match this format:
+-> Make sure your Excel file columns match this format:
 
 first_name
 
@@ -73,7 +73,7 @@ pan_number
 ![Demo Screenshot](assets/mobile.png)
 
 
-💻 How to Run Locally
+## 💻 How to Run Locally
 
 A. Start the Backend:
 
@@ -104,5 +104,4 @@ No authentication or role-based access control is implemented.
 
 Tables are responsive and support horizontal scrolling on smaller screens.
 
-Feel free to fork, contribute, or raise issues!
 
