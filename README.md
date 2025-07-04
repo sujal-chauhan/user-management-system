@@ -1,3 +1,8 @@
+## 📸 Demo Screenshot
+
+![Demo Screenshot](assets/home1.png)
+
+
 User Management System
 
 A full-stack user management application built with React, Node.js, Express, and MySQL.The application allows you to:
