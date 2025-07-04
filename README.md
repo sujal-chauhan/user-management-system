@@ -68,6 +68,11 @@ phone_number
 
 pan_number
 
+## 📸 Demo Screenshot
+
+![Demo Screenshot](assets/mobile.png)
+
+
 💻 How to Run Locally
 
 A. Start the Backend:
